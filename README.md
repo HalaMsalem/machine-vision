@@ -50,5 +50,3 @@ The report includes MATLAB code, visualizations, and final results.
 ## 🛠️ Notes
 - All MATLAB code is embedded within the PDF reports.  
 - These assignments were completed as part of the **Machine Vision** coursework.  
-- For academic use only.  
-
